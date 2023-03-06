@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.edp_dashboard">
+    package="com.example.com">
    <application
-        android:label="edp_dashboard"
+        android:label="flutter_clean_architecture"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

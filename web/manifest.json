@@ -1,6 +1,6 @@
 {
-    "name": "edp_dashboard",
-    "short_name": "edp_dashboard",
+    "name": "flutter_clean_architecture",
+    "short_name": "flutter_clean_architecture",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
